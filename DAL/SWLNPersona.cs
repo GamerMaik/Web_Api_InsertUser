@@ -73,6 +73,10 @@ namespace DAL
             // jjjjjjj
             // KKKK
 		}
+        public void Rama_Royer()
+        {
+
+        }
 		#endregion
 	}
 }
