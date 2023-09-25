@@ -28,10 +28,16 @@ namespace DAL
                 throw;
             }
         }
+
         public void Example_Function()
         {
 
         }
+        public void UwU(int i)
+        { 
+            //UwU
+        }
+    
         #endregion
     }
 }
