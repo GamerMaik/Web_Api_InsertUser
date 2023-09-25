@@ -10,7 +10,7 @@ namespace Api.Controllers
     {
         #region Atributos
         private LNProyectoApi lnProyectoApi;
-        private string UwU = "Uwuntu xd jajaj salu2";
+        private string UwU = "Uwuntu jajaj salu2 xd";
  
         #endregion  
 
