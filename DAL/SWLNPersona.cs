@@ -28,7 +28,10 @@ namespace DAL
                 throw;
             }
         }
+        public void Example_Function()
+        {
 
+        }
         #endregion
     }
 }
