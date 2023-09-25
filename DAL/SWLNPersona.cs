@@ -59,13 +59,7 @@ namespace DAL
             }
         }
 
-		public void UwU(int i)
-		{
-			// AAAAAAAAAAAAAAAAAAAA
-            // BBBBBBBBBBBBBBBB
-            // CCCCCCCCCCCCCCCC
-            // DDDDDDDDDDDDDDDD
-		}
-		#endregion
-	}
+
+        #endregion
+    }
 }
