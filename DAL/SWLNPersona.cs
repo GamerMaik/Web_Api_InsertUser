@@ -28,6 +28,10 @@ namespace DAL
                 throw;
             }
         }
+        public void UwU(int i)
+        { 
+            //UwU
+        }
 
         #endregion
     }
