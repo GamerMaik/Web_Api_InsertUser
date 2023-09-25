@@ -30,4 +30,12 @@ namespace DAL
         }
         #endregion
     }
+
+    public class COSASpersona
+    {
+
+    }
+
+
+
 }
