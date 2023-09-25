@@ -28,7 +28,6 @@ namespace DAL
                 throw;
             }
         }
-
         #endregion
     }
 }
